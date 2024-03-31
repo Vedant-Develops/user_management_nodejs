@@ -1,0 +1,107 @@
+Error: Error: Page Not Found
+    at D:\node_projects\user_management\src\app.js:103:10
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\node_projects\user_management\node_modules\express\lib\router\index.js:328:13)
+    at D:\node_projects\user_management\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\node_projects\user_management\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\index.js:280:10)
+    at D:\node_projects\user_management\node_modules\express-rate-limit\dist\index.cjs:710:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async D:\node_projects\user_management\node_modules\express-rate-limit\dist\index.cjs:625:5
+Error: Error: Page Not Found
+    at D:\node_projects\user_management\src\app.js:103:10
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\node_projects\user_management\node_modules\express\lib\router\index.js:328:13)
+    at D:\node_projects\user_management\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\node_projects\user_management\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\index.js:280:10)
+    at D:\node_projects\user_management\node_modules\express-rate-limit\dist\index.cjs:710:7
+    at async D:\node_projects\user_management\node_modules\express-rate-limit\dist\index.cjs:625:5
+Error: Error: "fullname" is required
+    at D:\node_projects\user_management\src\middlewares\validate.js:16:21
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\node_projects\user_management\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at D:\node_projects\user_management\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\node_projects\user_management\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\node_projects\user_management\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\node_projects\user_management\node_modules\express\lib\router\index.js:47:12)
+Error: Error: "fullname" is required
+    at D:\node_projects\user_management\src\middlewares\validate.js:16:21
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\node_projects\user_management\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at D:\node_projects\user_management\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\node_projects\user_management\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\node_projects\user_management\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\node_projects\user_management\node_modules\express\lib\router\index.js:47:12)
+Error: Error: "fullname" is required
+    at D:\node_projects\user_management\src\middlewares\validate.js:16:21
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\node_projects\user_management\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\node_projects\user_management\node_modules\express\lib\router\layer.js:95:5)
+    at D:\node_projects\user_management\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\node_projects\user_management\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\node_projects\user_management\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\node_projects\user_management\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\node_projects\user_management\node_modules\express\lib\router\index.js:47:12)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: ValidationError: Token validation failed: user: Path `user` is required.
+    at Document.invalidate (D:\node_projects\user_management\node_modules\mongoose\lib\document.js:3200:32)
+    at D:\node_projects\user_management\node_modules\mongoose\lib\document.js:2993:17
+    at D:\node_projects\user_management\node_modules\mongoose\lib\schemaType.js:1370:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
